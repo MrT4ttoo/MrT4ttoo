@@ -6,17 +6,13 @@
 ___
 
 <p align="center">
-  
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrT4ttoo&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrT4ttoo&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrT4ttoo&theme=tokyonight&hide=Jupyter&layout=compact" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MrT4ttoo&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrT4ttoo&theme=tokyonight&hide=Jupyter&layout=compact" />
 </p>
 
 ___
@@ -49,8 +45,12 @@ ___
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
 </a>
 
-
-
-
----
 ___
+
+<p>
+  Y recuerda:
+</p>
+<p align="center">
+  "Si puedes imaginarlo, puedes programarlo" -Programación ATS
+</p>
+
