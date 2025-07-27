@@ -27,9 +27,19 @@ ___
     Dibujo digital, Diseño gráfico, SQL/NoSQL Databases**
 &emsp;
 ___
+<!-- Estadisticas -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrT4ttoo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=MrT4ttoo&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=MrT4ttoo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrT4ttoo&theme=tokyonight&hide=Jupyter&layout=compact&hide_border=true" 
+    width="300"
+  />
 </p>
 
 <p align="center">
