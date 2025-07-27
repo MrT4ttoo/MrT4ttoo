@@ -1,4 +1,10 @@
-<h1 align="center">Hola soy Adolfo Isaac<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/XOsX.gif" width="35"></h1>
+<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/4tyq.gif" width="45"></h1>
+<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/Uf9O.gif" width="35"></h1>
+<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/ZcsR.gif" width="60"></h1>
+<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/YqU2.gif" width="60"></h1>
+
+<!-- Contador de Visitas a mi README Profile -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bastndev&style=for-the-badge">
 </a>
@@ -25,7 +31,8 @@ ___
 ___
 
 <!-- Frase Final -->
-<h3 align="center">"Si puedes imaginarlo, puedes programarlo" - <strong>Programación ATS</strong></h3>
+<h3 align="center"><strong>"Si puedes imaginarlo, puedes programarlo"</strong></h3>
+<h3 align="center"><strong>-- Programación ATS</strong></h3>
 
 <!-- GIF SnakeGame -->
 <p align="center">
@@ -33,8 +40,11 @@ ___
 </p>
 
 ___
-  
-## Contáctame
+<!-- Titulo: "Contáctame" -->
+<h2>
+    Contáctame  <img src="https://i.gifer.com/33HU.gif" alt="GIF" width="30">  
+</h2> 
+
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
@@ -54,3 +64,9 @@ ___
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
 </a>
+
+___
+<!-- Titulo: "Contáctame" -->
+<h2>
+    Echamos unas partiditas?  <img src="https://i.gifer.com/33HU.gif" alt="GIF" width="30">  
+</h2> 
