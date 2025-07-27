@@ -11,8 +11,14 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrT4ttoo&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrT4ttoo&theme=tokyonight&hide=Jupyter&layout=compact" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=MrT4ttoo&theme=tokyonight&row=2&column=4" 
+    width="480"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrT4ttoo&theme=tokyonight&hide=Jupyter&layout=compact" 
+    width="300"
+  />
 </p>
 
 ___
@@ -23,7 +29,7 @@ ___
 
 ___
   
-## Contactame
+## Contáctame
 
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;" />
