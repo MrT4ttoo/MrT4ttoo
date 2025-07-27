@@ -7,12 +7,13 @@
 
 ___
 <!-- Acerca de Mí -->
-<img align="right" alt="GIF" style="height:340px; width:auto;" src="https://i.gifer.com/VfQL.gif" />
+<img align="right" alt="GIF" style="height:330px; width:auto;" src="https://i.gifer.com/VfQL.gif" />
 
 ### Soy un estudiante de 4to año de Ingeniería de Software en la Universidad Tecnológica de Panamá | UTP
 
 - **Dato curioso:** "Creo en la Ley de Murphy: si algo puede salir mal, saldrá mal... especialmente justo 
     después de que digas '¿qué podría salir mal?'. A veces, el caos no es un error, es el plan maestro disfrazado.
+  
 - 🌱 Actualmente estoy estudiando:
     - **Desarrollo de aplicaciones móviles**
     - **Implementación de Base de datos**
@@ -110,7 +111,90 @@ ___
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 ___
+<!-- Titulo:"Habilidades" -->
+<h2>
+    Habilidades <img src="https://i.gifer.com/YKcP.gif" alt="GIF" width="40">  
+</h2>
 
+<!-- Lenguajes de Programación -->
+<h3> Lenguajes de Programación </h3>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/C%20%26%20C++-00599C.svg?style=for-the-badge&logo=c%20programming&logoColor=white" alt="C & C++" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-bottom: 5px;" />
+</a>
+
+<!-- Frontend -->
+<h3> Desarrollo Frontend: </h3>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Vue.js-35495E.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="margin-bottom: 5px;" />
+</a>
+
+<!-- Backend / Frameworks -->
+<h3> Backend & Frameworks </h3>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="margin-bottom: 5px;" />
+</a>
+
+<!-- Base de Datos -->
+<h3> Base de Datos </h3>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-bottom: 5px;" />
+</a>
+
+<!-- DevOps / Herramientas -->
+<h3> DevOps & Herramientas</h3>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" style="margin-bottom: 5px;" />
+</a>
+
+___
 <!-- Frase Final -->
 <h3 align="center"><strong>"Si puedes imaginarlo, puedes programarlo"</strong></h3>
 <h3 align="center"><strong>-- Programación ATS</strong></h3>
