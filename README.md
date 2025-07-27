@@ -11,7 +11,7 @@ ___
 
 ### Soy un estudiante de 4to año de Ingeniería de Software en la Universidad Tecnológica de Panamá | UTP
 
-- **Dato curioso:** "Creo en la Ley de Murphy: si algo puede salir mal, saldrá mal... especialmente justo 
+- 💡**Dato curioso:** "Creo en la Ley de Murphy: si algo puede salir mal, saldrá mal... especialmente justo 
     después de que digas '¿qué podría salir mal?'. A veces, el caos no es un error, es el plan maestro disfrazado.
   
 - 🌱 Actualmente estoy estudiando:
