@@ -2,24 +2,28 @@
 
 <!-- Contador de Visitas a mi README Profile -->
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=bastndev&style=for-the-badge">
-</a>
+    <img src="https://komarev.com/ghpvc/?username=MrT4ttoo&style=for-the-badge" alt="Contador de visitas">
+  </a>
 
 ___
-&emsp;
-<h3 align="left">Hi 👋, I'm Berkeli, Site Reliability Engineer based in London. I have extensive experience working in agile environment on several projects as a full stack engineer.</h3>
-&emsp;
+<!-- Acerca de Mí -->
+<img align="right" alt="GIF" style="height:340px; width:auto;" src="https://i.gifer.com/VfQL.gif" />
 
--------------------
-&emsp;
+### Soy un estudiante de 4to año de Ingeniería de Software en la Universidad Tecnológica de Panamá | UTP
 
-- 🔭 I’m currently working on [Mentor Bot](https://mentor.love/) for CYF Products. 
-- 📚 I'm also doing the [Immersive Engineering Course](https://github.com/CodeYourFuture/immersive-go-course), a program aimed at Site Reliability Engineering designed by CodeYourFuture in partnership with [Slack](https://slack.com/).
-
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
-
+- **Dato curioso:** "Creo en la Ley de Murphy: si algo puede salir mal, saldrá mal... especialmente justo 
+    después de que digas '¿qué podría salir mal?'. A veces, el caos no es un error, es el plan maestro disfrazado.
+- 🌱 Actualmente estoy estudiando:
+    - **Desarrollo de aplicaciones móviles**
+    - **Implementación de Base de datos**
+    - **Desarrollo de aplicaciones web**
+    
+- 🎮 **Me apasiona todo lo relacionado con el desarrollo de videojuegos:** desde el diseño gráfico y 
+    la creación de personajes, hasta la ambientación de mundos inmersivos y la programación que da vida 
+    a cada mecánica — trabajando con motores como Unity o Unreal Engine, scripting en C# o Blueprints, 
+    manejo de físicas, IA, sistemas de partículas y optimización de rendimiento.
+- 💬 Háblame de **Dearrollo de aplicaciones moviles, videojuegos, desarrollo de videojuegos, animación digital, 
+    Dibujo digital, Diseño gráfico, SQL/NoSQL Databases**
 &emsp;
 ___
 <p align="center">
@@ -38,7 +42,7 @@ ___
 </p>
 
 ___
-<!-- Titulo: "Habilidades" -->
+<!-- Titulo:"Habilidades" -->
 <h2>
     Habilidades <img src="https://i.gifer.com/YKcP.gif" alt="GIF" width="40">  
 </h2>
