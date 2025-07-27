@@ -33,7 +33,7 @@ ___
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/MrT4ttoo" target="_blank">
+<a href="https://github.com/MrT4ttoo?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
