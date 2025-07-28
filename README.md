@@ -2,7 +2,7 @@
 
 <!-- Contador de Visitas a mi README Profile -->
 <p align="center">
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <a
     <img src="https://komarev.com/ghpvc/?username=MrT4ttoo&style=for-the-badge" alt="Contador de visitas">
   </a>
 </p>
