@@ -1,4 +1,9 @@
-<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/Bx2q.gif" width="100"></h1>
+<p align="center">
+  Código, bugs y corazones extra...
+</p>
+<h2 align="center"><img src="https://i.gifer.com/Bx2q.gif" width="100"> Soy Adolfo Isaac López, dev por vocación, cazador de bugs y constructor de soluciones.
+Bienvenido al Nivel 1: ¡Mi GitHub! </h2>
+ 
 
 <!-- Contador de Visitas a mi README Profile -->
 <p align="center">
