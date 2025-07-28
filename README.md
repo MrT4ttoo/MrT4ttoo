@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/YqU2.gif" width="45"></h1>
+<h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/Bx2q.gif" width="100"></h1>
 
 <!-- Contador de Visitas a mi README Profile -->
 <p align="center">
