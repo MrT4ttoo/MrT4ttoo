@@ -1,18 +1,17 @@
-<p align="center">
-  Código, bugs y corazones extra...
-</p>
-<h2 align="center"><img src="https://i.gifer.com/Bx2q.gif" width="100"> Soy Adolfo Isaac López, dev por vocación, cazador de bugs y constructor de soluciones.
+<!-- bienvenida a mi README Profile -->
+<p align="center" style="margin: 0;"> <img src="assets/Zelda.gif" width="150"> </p>
+<h3 align="center"><strong> Código, bugs y corazones extra... </h3>
+<h2 align="center"> Soy Adolfo Isaac López, dev por vocación, cazador de bugs y constructor de soluciones.
 Bienvenido al Nivel 1: ¡Mi GitHub! </h2>
  
 
 <!-- Contador de Visitas a mi README Profile -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MrT4ttoo&style=for-the-badge" alt="Contador de visitas">
+    <img src="https://komarev.com/ghpvc/?username=MrT4ttoo&style=for-the-badge" alt="Contador de visitas" width="105">
   </a>
 </p>
 
-___
 <!-- Acerca de Mí -->
 ### Soy un estudiante de 4to año de Ingeniería de Software en la Universidad Tecnológica de Panamá | UTP
 
