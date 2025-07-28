@@ -1,9 +1,11 @@
 <h1 align="center">Hola soy Adolfo Isaac <img src="https://i.gifer.com/YqU2.gif" width="45"></h1>
 
 <!-- Contador de Visitas a mi README Profile -->
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MrT4ttoo&style=for-the-badge" alt="Contador de visitas">
   </a>
+</p>
 
 ___
 <!-- Acerca de Mí -->
