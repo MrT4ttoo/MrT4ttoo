@@ -9,9 +9,9 @@
 
 ___
 <!-- Acerca de Mí -->
-<img align="right" alt="GIF" style="height:330px; width:auto;" src="https://i.gifer.com/VfQL.gif" />
-
 ### Soy un estudiante de 4to año de Ingeniería de Software en la Universidad Tecnológica de Panamá | UTP
+
+<img align="right" alt="GIF" style="height:330px; width:auto;" src="https://i.gifer.com/VfQL.gif" />
 
 - 💡**Dato curioso:** "Creo en la Ley de Murphy: si algo puede salir mal, saldrá mal... especialmente justo 
     después de que digas '¿qué podría salir mal?'. A veces, el caos no es un error, es el plan maestro disfrazado.
